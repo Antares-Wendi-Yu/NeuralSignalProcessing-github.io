@@ -1,4 +1,4 @@
-DEBUG=JEKYLL_GITHUB_TOKEN=blank PAGES_API_URL=https://github.com/Antares-Wendi-Yu/NeuralSignalProcessing.github.io
+DEBUG=JEKYLL_GITHUB_TOKEN=blank PAGES_API_URL=http://0.0.0.0
 
 default:
 	@gem install jekyll bundler && bundle install
